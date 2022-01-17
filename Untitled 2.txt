@@ -1,0 +1,25 @@
+<html>
+
+<TITLE> Evaluation 1 Writing Assignment</TITLE>
+<AUTHOR> Michele Cantwell </AUTHOR>
+<HEAD>A Closer Look</HEAD><br>
+<ul>
+  <li>What are the components of the website?</li>
+  <li>What tasks do you think the website was created to facilitate?</li>
+  <li>Do the components of the site make completing those tasks easy for users? Why?</li>
+</ul>
+<a href=”http://library.uncg.edu/”UNCG Library Website</a><br>
+
+<a href="https://ibb.co/rk94xx1"><img src="https://i.ibb.co/Y2gpccq/Screen-Shot-2022-01-15-at-3-03-41-AM.png" alt="Screen-Shot-2022-01-15-at-3-03-41-AM" border="0"></a>
+
+<body><p>Upon examining the UNCG library website, some of the main components that make up the homepage of the website are technology checkout, space reservation link, a helpdesk chat box, services for students, faculty and staff, etc. However, the main component of the homepage is the search bar, which allows the user to search for articles, books, databases, and other resources. The user is able to search alphabetically by journal, database, research guides, and course reserves. There are additional advanced search options for the user to narrow their search parameters even more. The homepage includes photos to reference the library space and the students who utilize it not just online, but in person as well. It follows a uniform layout to match the rest of the UNCG website, and bares the logo to be cohesive with the rest of the site as well. The website also includes multiple forms of contact info include a live chatbot, an email address, phone number, and fax number. 
+	I believe this website was created to facilitate tasks for student and faculty research, in order to create a space where students could find resources to aid in their research. Other tasks this website was create for usability in providing an appealing design in which the home page sits as a one-stop shop for most needs such as borrowing books, chatting with a live library employee, reserving a space on the campus library, as well as contact info, etc. 
+Though different links (databases, journals a-z, course reserves, tech checkout, etc) take you to different webpages at times, which can make the user experience a bit difficult at times to navigate due to all of the external links, the website provides a help section to answer questions users might have in their navigation struggles to help them back on the right path in a more detailed, explanatory, and guided way. I think the components of the website, though complex, to provide the user a more thoughtful and guided experience. I think the designer of the website was aware of the deep complexities of creating a site to offer a variety of services to students, faculty, and staff in a convenient and easy way. For the most part, as a student I have always felt the school library site was easy enough to use, but due to the complex nature of what all this part of the university this website covers, I never dived deeply into all of the services provided. I believe overall, the website could use some work in streamlining some of the services offered, there are so many different links found on different avenues of the website, that it can be confusing to find what you need without having to search around different pages to find just what you need as a user. 
+  
+  
+<footer>
+  <p>completed on January 16th, 2022</p>
+  <p><a href="mailto:mrcantwe@uncg.edu">mrcantwe@uncg.edu</a></p>
+</footer>
+
+</html>
